@@ -26,4 +26,8 @@ uv venv --python=python3.10
 source .venv/bin/activate
 ```
 
+**4. Install requirements**
 
+```bash
+uv pip install -r requirements.txt
+```
