@@ -1,5 +1,5 @@
 # LLMFromScratch
-Corresponding supplementary notebooks for "Build a Large Language Model From Scratch"  
+Notebooks and exercises for Raschka's "Build a Large Language Model From Scratch"  
 
 # Usage
 <br>
@@ -9,6 +9,11 @@ Corresponding supplementary notebooks for "Build a Large Language Model From Scr
 ```bash
 pip install uv
 ```
+or 
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+(if neither work, check https://docs.astral.sh/uv/getting-started/installation/)
 
 <br>
 
