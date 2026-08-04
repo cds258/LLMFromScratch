@@ -1,7 +1,7 @@
 # LLMFromScratch
 Notebooks and exercises for Raschka's "Build a Large Language Model From Scratch"  
 
-# Usage
+# Quickstart
 <br>
 
 **1. Install uv**
